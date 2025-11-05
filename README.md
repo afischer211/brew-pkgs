@@ -9,6 +9,10 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`tmux`](https://formulae.brew.sh/formula/tmux) (Terminal Multiplexer)
 - [`htop`](https://formulae.brew.sh/formula/htop) (Process Manager)
 - [`python3`](https://formulae.brew.sh/formula/python@3.9) (Scripting Language)
+- [`iterm2`](https://formulae.brew.sh/cask/iterm2) (Terminal Emulator)
+- [`ghostty`](https://formulae.brew.sh/cask/ghostty) (Terminal Emulator)
+- [`latest`](https://formulae.brew.sh/cask/latest) (Update Checker)
+- [`raycast`](https://formulae.brew.sh/cask/raycast) (Raycast Launcher - Spotlight replacement)
 
 ## CLI Tools
 
@@ -17,11 +21,15 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`rename`](https://formulae.brew.sh/formula/rename) (Batch rename tool)
 - [`fzf`](https://formulae.brew.sh/formula/fzf) (Fuzzy finder)
 - [`jq`](https://formulae.brew.sh/formula/jq) (JSON processor)
+- [`yq`](https://formulae.brew.sh/formula/yq) (YAML processor)
 - [`rlwrap`](https://formulae.brew.sh/formula/rlwrap) (Readline wrapper)
 
 ## Development
 
+- [`android-studio`](https://formulae.brew.sh/cask/android-studio) (Android Studio)
 - [`coreutils`](https://formulae.brew.sh/formula/coreutils) (GNU utils)
+- [`copilot-for-xcode`](https://formulae.brew.sh/cask/copilot-for-xcode) (GitHub Copilot Addon for XCode)
+- [`cursor`](https://formulae.brew.sh/cask/cursor) (Cursor AI IDE)
 - [`visual-studio-code`](https://formulae.brew.sh/cask/visual-studio-code) (Editor/IDE)
 - [`cmake` (Cask)](https://formulae.brew.sh/cask/cmake) (Build tool)
 - [`ninja`](https://formulae.brew.sh/formula/ninja) (Lightweight build system)
@@ -44,10 +52,17 @@ A list of recommendations for Homebrew packages on macOS I find useful.
   - Note that [`wine-stable`](https://formulae.brew.sh/cask/wine-stable) also works, but does not support 32-bit applications
   - See [this gist](https://gist.github.com/fwcd/903e0851f66a675a3a253b1837c7553f) for details
 - [`winetricks`](https://formulae.brew.sh/formula/winetricks) (Helper scripts for Windows libraries in Wine)
+- [`jenv`](https://formulae.brew.sh/formula/jenv) (Java Environment Manager)
+- [`rbenv`](https://formulae.brew.sh/formula/rbenv) (Ruby Environment Manager)
+- [`zed`](https://formulae.brew.sh/cask/zed) (Zed Editor)
 
 ## Security
 
 - [`little-snitch` (Cask)](https://formulae.brew.sh/cask/little-snitch) (Personal firewall)
+- [`lulu`](https://formulae.brew.sh/cask/lulu) (Personal Firewall)
+- [`silentknight`](https://formulae.brew.sh/cask/silentknight) (fully automatic checks of firmware and security systems)
+- [`suspicious-package`](https://formulae.brew.sh/cask/suspicious-package) (Application for inspecting installer packages)
+- [`openvpn-connect`](https://formulae.brew.sh/cask/openvpn-connect) (VPN Client)
 
 ## Server
 
@@ -78,10 +93,13 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 ## Cloud
 
 - [`nextcloud` (Cask)](https://formulae.brew.sh/cask/nextcloud) (Nextcloud desktop sync client)
+- [`nextcloud-vfs` (Cask)](https://formulae.brew.sh/cask/nextcloud-vfs) (Nextcloud desktop sync client with VFS support)
 
 ## Internet
 
 - [`firefox` (Cask)](https://formulae.brew.sh/cask/firefox) (Web Browser)
+- [`helium-browser` (Cask)](https://formulae.brew.sh/cask/helium-browser) (Web Browser)
+- [`vivaldi` (Cask)](https://formulae.brew.sh/cask/vivaldi) (Web Browser)
 - [`discord` (Cask)](https://formulae.brew.sh/cask/discord) (Voice and Text Chat)
 - [`mattermost` (Cask)](https://formulae.brew.sh/cask/mattermost) (Text Chat)
 - [`signal` (Cask)](https://formulae.brew.sh/cask/signal) (Messenger)
@@ -95,6 +113,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`pdfpc`](https://formulae.brew.sh/formula/pdfpc) (PDF presenter console)
 - [`libreoffice` (Cask)](https://formulae.brew.sh/cask/libreoffice) (Office suite)
 - [`zotero` (Cask)](https://formulae.brew.sh/cask/zotero) (Bibliography manager)
+- [`obsidian` (Cask)](https://formulae.brew.sh/cask/obsidian) (Obsidian PKM)
 
 ## Fonts
 
@@ -111,10 +130,15 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`obs` (Cask)](https://formulae.brew.sh/cask/obs) (Broadcasting and screencasting)
 - [`blackhole-2ch` (Cask)](https://formulae.brew.sh/cask/blackhole-2ch) (Virtual Audio Driver, useful for routing desktop audio)
 
+## AI
+- [`claude`](https://formulae.brew.sh/cask/claude) (Claude Desktop by Anthropic)
+- [`ollama`](https://formulae.brew.sh/formula/ollama) (Ollama model runtime)
+
 ## Graphics
 
 - [`gimp` (Cask)](https://formulae.brew.sh/cask/gimp) (Image editor)
 - [`inkscape` (Cask)](https://formulae.brew.sh/cask/inkscape) (Vector graphics editor)
+- [`drawio` (Cask)](https://formulae.brew.sh/cask/drawio) (Diagram editor)
 
 ## CAD
 
