@@ -94,10 +94,13 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`barrier` (Cask)](https://formulae.brew.sh/cask/barrier) (KVM)
 - [`raspberry-pi-imager` (Cask)](https://formulae.brew.sh/cask/raspberry-pi-imager) (Image flashing utility)
 - [`burn` (Cask)](https://formulae.brew.sh/cask/burn) (CD/DVD burning tool)
+- [`mas`](https://formulae.brew.sh/formula/mas) (Mac App Store command-line interface)
+- [`topgrade`](https://formulae.brew.sh/formula/topgrade#default) (Upgrade all the things)
 
 ## Automation
 
 - [`hammerspoon` (Cask)](https://formulae.brew.sh/cask/hammerspoon) (Desktop automation application)
+- [`hazel` (Cask)](https://formulae.brew.sh/cask/hazel#default) (Automated organisation)
 
 ## Cloud
 
