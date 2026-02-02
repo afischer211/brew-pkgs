@@ -24,6 +24,11 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`yq`](https://formulae.brew.sh/formula/yq) (YAML processor)
 - [`rlwrap`](https://formulae.brew.sh/formula/rlwrap) (Readline wrapper)
 - [`wget`](https://formulae.brew.sh/formula/wget) (download tool)
+- `macfetch` - brew tap gantoreno/macfetch && brew install macfetch (A macOS Neofetch alternative https://github.com/gantoreno/macfetch)
+- [`tlrc`](https://formulae.brew.sh/formula/tlrc) (Official tldr client written in Rust https://tldr.sh/tlrc/)
+
+)
+
 
 ## Development
 
