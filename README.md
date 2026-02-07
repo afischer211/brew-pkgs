@@ -98,6 +98,8 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`burn` (Cask)](https://formulae.brew.sh/cask/burn) (CD/DVD burning tool)
 - [`mas`](https://formulae.brew.sh/formula/mas) (Mac App Store command-line interface)
 - [`topgrade`](https://formulae.brew.sh/formula/topgrade#default) (Upgrade all the things)
+- [`finetune`](https://formulae.brew.sh/cask/finetune) (Per-application volume mixer, equalizer, and audio router)
+- [`thaw`(Cask)](https://formulae.brew.sh/cask/thaw) (Menu bar manager)
 
 ## Automation
 
