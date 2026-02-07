@@ -59,6 +59,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`rbenv`](https://formulae.brew.sh/formula/rbenv) (Ruby Environment Manager)
 - [`zed` (Cask)](https://formulae.brew.sh/cask/zed) (Zed Editor)
 - [`github` (Cask)](https://formulae.brew.sh/cask/github) (Desktop client for GitHub repositories)
+- [`antigravity` (Cask)](https://formulae.brew.sh/cask/antigravity) (AI Coding Agent IDE)
 
 ## Security
 
@@ -148,10 +149,14 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`blender` (Cask)](https://formulae.brew.sh/cask/blender) (3D modeling)
 - [`obs` (Cask)](https://formulae.brew.sh/cask/obs) (Broadcasting and screencasting)
 - [`blackhole-2ch` (Cask)](https://formulae.brew.sh/cask/blackhole-2ch) (Virtual Audio Driver, useful for routing desktop audio)
+- [`iina`(Cask)](https://formulae.brew.sh/cask/iina) (Free and open-source media player)
 
 ## AI
 - [`claude` (Cask)](https://formulae.brew.sh/cask/claude) (Claude Desktop by Anthropic)
 - [`ollama`](https://formulae.brew.sh/formula/ollama) (Ollama model runtime)
+- [`codex` (Cask)](https://formulae.brew.sh/cask/codex) (OpenAI's coding agent that runs in your terminal)
+- [`codex-app' (Cask)](https://formulae.brew.sh/cask/codex-app) (OpenAI's Codex desktop app for managing coding agents)
+- [`claude-code`](https://formulae.brew.sh/cask/claude-code) (Terminal-based AI coding assistant)
 
 ## Graphics
 
