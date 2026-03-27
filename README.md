@@ -126,6 +126,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`slack` (Cask)](https://formulae.brew.sh/cask/slack) [Text Chat](https://slack.com/)
 - [`zoom` (Cask)](https://formulae.brew.sh/cask/zoom) [Video Conferencing](https://www.zoom.us/)
 - [`cyberduck` (Cask)](https://formulae.brew.sh/cask/cyberduck) [Server and cloud storage browser](https://cyberduck.io/)
+- [`netnewswire` (Cask)](https://formulae.brew.sh/cask/netnewswire) [Free and open-source RSS reader](https://netnewswire.com/)
 
 ## Productivity
 
@@ -182,3 +183,5 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`gog-galaxy` (Cask)](https://formulae.brew.sh/cask/gog-galaxy) [GOG Galaxy game client](https://www.gog.com/galaxy)
 - [`prismlauncher` (Cask)](https://formulae.brew.sh/cask/prismlauncher) [Minecraft Launcher](https://prismlauncher.org/)
 - [`0-ad` (Cask)](https://formulae.brew.sh/cask/0-ad) [0 A.D. Real-time strategy game](https://play0ad.com/)
+- [`supertuxkart` (Cask)](https://formulae.brew.sh/cask/supertuxkart) [Kart racing game](https://supertuxkart.net/Main_Page)
+- [`sonic-robo-blast-2` (Cask)](https://formulae.brew.sh/cask/sonic-robo-blast-2) [3D open-source Sonic the Hedgehog fangame](https://www.srb2.org/)
